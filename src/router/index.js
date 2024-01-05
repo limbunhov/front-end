@@ -2,7 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router';
 import HomePage from '../views/HomePage.vue';
 import ShopPage from '../views/ShopPage.vue';
 import AboutPage from '../views/AboutPage.vue';
-import contactUs from '../views/contactUs.vue';
+import ContactUs from "../views/contactUs.vue";
 import card_product from '../components/card_product.vue';
 import login_form from '../components/login&register/login_form.vue';
 import register_form from '../components/login&register/register_form.vue';
