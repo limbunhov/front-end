@@ -11,9 +11,9 @@ import processPay from '../components/processPay.vue';
 import invoice from '../components/invoice.vue';
 import listProduct from '../components/AdminPage/crudpage/seeallproduct.vue';
 import orderHistory from '../components/orderHistory.vue';
-import crud_product from '../components/AdminPage/crud_product.vue';
-import favorite from '../components/favorite.vue'
-import viewProfile from '../components/viewProfile.vue'
+import crud_product from '../components/AdminPage/Crud_product.vue';
+import favorite from '../components/Favorite.vue'
+import viewProfile from '../components/ViewProfile.vue'
 import upadteproduct from '../components/AdminPage/crudpage/Updateproduct.vue'
 import deleteproduct from '../components/AdminPage/crudpage/deleteproduct.vue'
 const router = createRouter({
